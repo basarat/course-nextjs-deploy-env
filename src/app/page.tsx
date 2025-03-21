@@ -3,12 +3,12 @@ export default function Page() {
 
   switch (STAGE) {
     case "production":
-      return "You are running a production version";
+      return "We are in production 🚀";
     case "preview":
-      return "You are looking at a preview of the website";
+      return "You are looking at a preview of the website 🫰🏻";
     case "developement":
-      return "Development mode enabled";
+      return "Development mode enabled 🔥";
     default:
-      return "Are you sure you provided a valid STAGE?";
+      return "Are you sure you provided a valid STAGE? 😢";
   }
 }
