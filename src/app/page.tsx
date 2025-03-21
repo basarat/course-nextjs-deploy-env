@@ -6,7 +6,7 @@ export default function Page() {
       return "We are in production 🚀";
     case "preview":
       return "You are looking at a preview of the website 🫰🏻";
-    case "developement":
+    case "development":
       return "Development mode enabled 🔥";
     default:
       return "Are you sure you provided a valid STAGE? 😢";
