@@ -1,0 +1,18 @@
+body {
+  background-color: #dadada;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 2rem;
+  font-family: monospace;
+}
