@@ -2,6 +2,7 @@
 
 # NextJS Course
 
+
 Part of the [NextJS Course on Boolean Art][course].
 
 [![Course Image](https://www.booleanart.com/course-content/nextjs/index.png)][course]
